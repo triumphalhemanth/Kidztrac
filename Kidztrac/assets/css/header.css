@@ -61,7 +61,7 @@
 	top:0px;
 	line-height: 1em;
 	font-weight:normal;
-	font-family: "flaticon_kidscamp-icons";
+	font-family: "flaticon_Kidztrac-icons";
 }
 
 .header-top_list li a{
@@ -372,7 +372,7 @@
     right: 0px;
 	font-weight:800;
 	font-size:12px;
-	font-family: "flaticon_kidscamp-icons";
+	font-family: "flaticon_Kidztrac-icons";
 }
 
 .main-header .main-menu .navigation > li.dropdown:hover > a:before{
@@ -1086,7 +1086,7 @@
 	cursor: pointer;
 	display: none;
 	color:var(--white-color);
-	font-family: "flaticon_kidscamp-icons";
+	font-family: "flaticon_Kidztrac-icons";
 }
 
 .main-header.header-style-two .mobile-nav-toggler{
@@ -1217,7 +1217,7 @@
 	-webkit-transform: translateY(-50px);
 	-ms-transform: translateY(-50px);
 	transform: translateY(-50px);
-	font-family: "flaticon_kidscamp-icons";
+	font-family: "flaticon_Kidztrac-icons";
 }
 
 .mobile-menu-visible .mobile-menu .close-btn{
@@ -1498,7 +1498,7 @@
 	top: 25px;
 	cursor:pointer;
 	background:none;
-	font-family: "flaticon_kidscamp-icons";
+	font-family: "flaticon_Kidztrac-icons";
 	-webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
 	-ms-transition: all 500ms ease;

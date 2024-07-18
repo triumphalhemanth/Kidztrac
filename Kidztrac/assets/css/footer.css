@@ -277,7 +277,7 @@
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
 	transform:translateX(-50%) translateY(-50%);
-	font-family: "flaticon_kidscamp-icons";
+	font-family: "flaticon_Kidztrac-icons";
 }
 
 .main-footer .instagram-widget .image-box img{
@@ -523,7 +523,7 @@
 	display:inline-block;
 	color:var(--white-color);
 	background-color:var(--color-two);
-	font-family: "flaticon_kidscamp-icons";
+	font-family: "flaticon_Kidztrac-icons";
 }
 
 .newsletter-box_two-spam{
