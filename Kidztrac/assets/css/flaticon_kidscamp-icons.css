@@ -10,16 +10,16 @@
 */
 
 @font-face {
-    font-family: "flaticon_Kidztrac-icons";
-    src: url("../fonts/flaticon_Kidztrac-icons.woff2?") format("woff2"),
-url("../fonts/flaticon_Kidztrac-icons.woff?") format("woff"),
-url("../fonts/flaticon_Kidztrac-icons.eot?#iefix") format("embedded-opentype"),
-url("../fonts/flaticon_Kidztrac-icons.ttf?") format("truetype"),
-url("../fonts/flaticon_Kidztrac-icons.svg?#flaticon_Kidztrac-icons") format("svg")
+    font-family: "flaticon_Kidscamp-icons";
+    src: url("../fonts/flaticon_Kidscamp-icons.woff2?") format("woff2"),
+url("../fonts/flaticon_Kidscamp-icons.woff?") format("woff"),
+url("../fonts/flaticon_Kidscamp-icons.eot?#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_Kidscamp-icons.ttf?") format("truetype"),
+url("../fonts/flaticon_Kidscamp-icons.svg?#flaticon_Kidscamp-icons") format("svg")
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_Kidztrac-icons !important;
+    font-family: flaticon_Kidscamp-icons !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;

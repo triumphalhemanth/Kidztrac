@@ -1,16 +1,16 @@
-$flaticon_Kidztrac-icons-font: "flaticon_Kidztrac-icons";
+$flaticon_Kidscamp-icons-font: "flaticon_Kidscamp-icons";
 
 @font-face {
-    font-family: $flaticon_Kidztrac-icons-font;
-    src: url("./flaticon_Kidztrac-icons.woff2?8641e18662f54871b04e68375f810e60") format("woff2"),
-url("./flaticon_Kidztrac-icons.woff?8641e18662f54871b04e68375f810e60") format("woff"),
-url("./flaticon_Kidztrac-icons.eot?8641e18662f54871b04e68375f810e60#iefix") format("embedded-opentype"),
-url("./flaticon_Kidztrac-icons.ttf?8641e18662f54871b04e68375f810e60") format("truetype"),
-url("./flaticon_Kidztrac-icons.svg?8641e18662f54871b04e68375f810e60#flaticon_Kidztrac-icons") format("svg");
+    font-family: $flaticon_Kidscamp-icons-font;
+    src: url("./flaticon_Kidscamp-icons.woff2?8641e18662f54871b04e68375f810e60") format("woff2"),
+url("./flaticon_Kidscamp-icons.woff?8641e18662f54871b04e68375f810e60") format("woff"),
+url("./flaticon_Kidscamp-icons.eot?8641e18662f54871b04e68375f810e60#iefix") format("embedded-opentype"),
+url("./flaticon_Kidscamp-icons.ttf?8641e18662f54871b04e68375f810e60") format("truetype"),
+url("./flaticon_Kidscamp-icons.svg?8641e18662f54871b04e68375f810e60#flaticon_Kidscamp-icons") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_Kidztrac-icons !important;
+    font-family: flaticon_Kidscamp-icons !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
@@ -20,7 +20,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-$flaticon_Kidztrac-icons-map: (
+$flaticon_Kidscamp-icons-map: (
     "up-right-arrow": "\f101",
     "send": "\f102",
     "search-interface-symbol": "\f103",
@@ -122,296 +122,296 @@ $flaticon_Kidztrac-icons-map: (
 );
 
 .flaticon-up-right-arrow:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "up-right-arrow");
+    content: map-get($flaticon_Kidscamp-icons-map, "up-right-arrow");
 }
 .flaticon-send:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "send");
+    content: map-get($flaticon_Kidscamp-icons-map, "send");
 }
 .flaticon-search-interface-symbol:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "search-interface-symbol");
+    content: map-get($flaticon_Kidscamp-icons-map, "search-interface-symbol");
 }
 .flaticon-user:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "user");
+    content: map-get($flaticon_Kidscamp-icons-map, "user");
 }
 .flaticon-globe:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "globe");
+    content: map-get($flaticon_Kidscamp-icons-map, "globe");
 }
 .flaticon-star:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "star");
+    content: map-get($flaticon_Kidscamp-icons-map, "star");
 }
 .flaticon-star-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "star-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "star-1");
 }
 .flaticon-read:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "read");
+    content: map-get($flaticon_Kidscamp-icons-map, "read");
 }
 .flaticon-padlock:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "padlock");
+    content: map-get($flaticon_Kidscamp-icons-map, "padlock");
 }
 .flaticon-check-mark:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "check-mark");
+    content: map-get($flaticon_Kidscamp-icons-map, "check-mark");
 }
 .flaticon-phone-call:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "phone-call");
+    content: map-get($flaticon_Kidscamp-icons-map, "phone-call");
 }
 .flaticon-call:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "call");
+    content: map-get($flaticon_Kidscamp-icons-map, "call");
 }
 .flaticon-smartphone:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "smartphone");
+    content: map-get($flaticon_Kidscamp-icons-map, "smartphone");
 }
 .flaticon-phone:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "phone");
+    content: map-get($flaticon_Kidscamp-icons-map, "phone");
 }
 .flaticon-telephone:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "telephone");
+    content: map-get($flaticon_Kidscamp-icons-map, "telephone");
 }
 .flaticon-plus:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "plus");
+    content: map-get($flaticon_Kidscamp-icons-map, "plus");
 }
 .flaticon-minus:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "minus");
+    content: map-get($flaticon_Kidscamp-icons-map, "minus");
 }
 .flaticon-maps-and-flags:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "maps-and-flags");
+    content: map-get($flaticon_Kidscamp-icons-map, "maps-and-flags");
 }
 .flaticon-envelope:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "envelope");
+    content: map-get($flaticon_Kidscamp-icons-map, "envelope");
 }
 .flaticon-email:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "email");
+    content: map-get($flaticon_Kidscamp-icons-map, "email");
 }
 .flaticon-shopping-cart:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "shopping-cart");
+    content: map-get($flaticon_Kidscamp-icons-map, "shopping-cart");
 }
 .flaticon-shopping-cart-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "shopping-cart-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "shopping-cart-1");
 }
 .flaticon-shopping-bag:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "shopping-bag");
+    content: map-get($flaticon_Kidscamp-icons-map, "shopping-bag");
 }
 .flaticon-facebook-app-symbol:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "facebook-app-symbol");
+    content: map-get($flaticon_Kidscamp-icons-map, "facebook-app-symbol");
 }
 .flaticon-twitter:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "twitter");
+    content: map-get($flaticon_Kidscamp-icons-map, "twitter");
 }
 .flaticon-linkedin:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "linkedin");
+    content: map-get($flaticon_Kidscamp-icons-map, "linkedin");
 }
 .flaticon-pinterest:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "pinterest");
+    content: map-get($flaticon_Kidscamp-icons-map, "pinterest");
 }
 .flaticon-dribbble-logo:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "dribbble-logo");
+    content: map-get($flaticon_Kidscamp-icons-map, "dribbble-logo");
 }
 .flaticon-behance:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "behance");
+    content: map-get($flaticon_Kidscamp-icons-map, "behance");
 }
 .flaticon-whatsapp:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "whatsapp");
+    content: map-get($flaticon_Kidscamp-icons-map, "whatsapp");
 }
 .flaticon-tik-tok:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "tik-tok");
+    content: map-get($flaticon_Kidscamp-icons-map, "tik-tok");
 }
 .flaticon-snapchat:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "snapchat");
+    content: map-get($flaticon_Kidscamp-icons-map, "snapchat");
 }
 .flaticon-islam:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "islam");
+    content: map-get($flaticon_Kidscamp-icons-map, "islam");
 }
 .flaticon-next:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "next");
+    content: map-get($flaticon_Kidscamp-icons-map, "next");
 }
 .flaticon-next-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "next-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "next-1");
 }
 .flaticon-back:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "back");
+    content: map-get($flaticon_Kidscamp-icons-map, "back");
 }
 .flaticon-left-arrow:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "left-arrow");
+    content: map-get($flaticon_Kidscamp-icons-map, "left-arrow");
 }
 .flaticon-share:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "share");
+    content: map-get($flaticon_Kidscamp-icons-map, "share");
 }
 .flaticon-share-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "share-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "share-1");
 }
 .flaticon-menu:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "menu");
+    content: map-get($flaticon_Kidscamp-icons-map, "menu");
 }
 .flaticon-dots-menu:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "dots-menu");
+    content: map-get($flaticon_Kidscamp-icons-map, "dots-menu");
 }
 .flaticon-visualization:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "visualization");
+    content: map-get($flaticon_Kidscamp-icons-map, "visualization");
 }
 .flaticon-close:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "close");
+    content: map-get($flaticon_Kidscamp-icons-map, "close");
 }
 .flaticon-down-arrow:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "down-arrow");
+    content: map-get($flaticon_Kidscamp-icons-map, "down-arrow");
 }
 .flaticon-arrow-up:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "arrow-up");
+    content: map-get($flaticon_Kidscamp-icons-map, "arrow-up");
 }
 .flaticon-up-arrow:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "up-arrow");
+    content: map-get($flaticon_Kidscamp-icons-map, "up-arrow");
 }
 .flaticon-up-arrows:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "up-arrows");
+    content: map-get($flaticon_Kidscamp-icons-map, "up-arrows");
 }
 .flaticon-up-arrow-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "up-arrow-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "up-arrow-1");
 }
 .flaticon-right:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "right");
+    content: map-get($flaticon_Kidscamp-icons-map, "right");
 }
 .flaticon-left:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "left");
+    content: map-get($flaticon_Kidscamp-icons-map, "left");
 }
 .flaticon-left-quote:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "left-quote");
+    content: map-get($flaticon_Kidscamp-icons-map, "left-quote");
 }
 .flaticon-right-quote:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "right-quote");
+    content: map-get($flaticon_Kidscamp-icons-map, "right-quote");
 }
 .flaticon-play:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "play");
+    content: map-get($flaticon_Kidscamp-icons-map, "play");
 }
 .flaticon-play-button:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "play-button");
+    content: map-get($flaticon_Kidscamp-icons-map, "play-button");
 }
 .flaticon-play-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "play-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "play-1");
 }
 .flaticon-iphone:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "iphone");
+    content: map-get($flaticon_Kidscamp-icons-map, "iphone");
 }
 .flaticon-email-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "email-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "email-1");
 }
 .flaticon-comment:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "comment");
+    content: map-get($flaticon_Kidscamp-icons-map, "comment");
 }
 .flaticon-close-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "close-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "close-1");
 }
 .flaticon-home:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "home");
+    content: map-get($flaticon_Kidscamp-icons-map, "home");
 }
 .flaticon-document:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "document");
+    content: map-get($flaticon_Kidscamp-icons-map, "document");
 }
 .flaticon-save-money:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "save-money");
+    content: map-get($flaticon_Kidscamp-icons-map, "save-money");
 }
 .flaticon-windows:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "windows");
+    content: map-get($flaticon_Kidscamp-icons-map, "windows");
 }
 .flaticon-apple-logo:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "apple-logo");
+    content: map-get($flaticon_Kidscamp-icons-map, "apple-logo");
 }
 .flaticon-user-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "user-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "user-1");
 }
 .flaticon-mail:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "mail");
+    content: map-get($flaticon_Kidscamp-icons-map, "mail");
 }
 .flaticon-arrow:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "arrow");
+    content: map-get($flaticon_Kidscamp-icons-map, "arrow");
 }
 .flaticon-right-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "right-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "right-1");
 }
 .flaticon-arrow-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "arrow-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "arrow-1");
 }
 .flaticon-arrow-2:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "arrow-2");
+    content: map-get($flaticon_Kidscamp-icons-map, "arrow-2");
 }
 .flaticon-arrow-3:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "arrow-3");
+    content: map-get($flaticon_Kidscamp-icons-map, "arrow-3");
 }
 .flaticon-share-2:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "share-2");
+    content: map-get($flaticon_Kidscamp-icons-map, "share-2");
 }
 .flaticon-checked:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "checked");
+    content: map-get($flaticon_Kidscamp-icons-map, "checked");
 }
 .flaticon-play-2:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "play-2");
+    content: map-get($flaticon_Kidscamp-icons-map, "play-2");
 }
 .flaticon-check-mark-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "check-mark-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "check-mark-1");
 }
 .flaticon-calendar:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "calendar");
+    content: map-get($flaticon_Kidscamp-icons-map, "calendar");
 }
 .flaticon-tag:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "tag");
+    content: map-get($flaticon_Kidscamp-icons-map, "tag");
 }
 .flaticon-label:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "label");
+    content: map-get($flaticon_Kidscamp-icons-map, "label");
 }
 .flaticon-targeting:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "targeting");
+    content: map-get($flaticon_Kidscamp-icons-map, "targeting");
 }
 .flaticon-personal:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "personal");
+    content: map-get($flaticon_Kidscamp-icons-map, "personal");
 }
 .flaticon-main-menu:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "main-menu");
+    content: map-get($flaticon_Kidscamp-icons-map, "main-menu");
 }
 .flaticon-programmer:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "programmer");
+    content: map-get($flaticon_Kidscamp-icons-map, "programmer");
 }
 .flaticon-leader:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "leader");
+    content: map-get($flaticon_Kidscamp-icons-map, "leader");
 }
 .flaticon-network:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "network");
+    content: map-get($flaticon_Kidscamp-icons-map, "network");
 }
 .flaticon-happiness:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "happiness");
+    content: map-get($flaticon_Kidscamp-icons-map, "happiness");
 }
 .flaticon-volume:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "volume");
+    content: map-get($flaticon_Kidscamp-icons-map, "volume");
 }
 .flaticon-trophy:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "trophy");
+    content: map-get($flaticon_Kidscamp-icons-map, "trophy");
 }
 .flaticon-mountain:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "mountain");
+    content: map-get($flaticon_Kidscamp-icons-map, "mountain");
 }
 .flaticon-smile:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "smile");
+    content: map-get($flaticon_Kidscamp-icons-map, "smile");
 }
 .flaticon-arroba:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "arroba");
+    content: map-get($flaticon_Kidscamp-icons-map, "arroba");
 }
 .flaticon-instagram:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "instagram");
+    content: map-get($flaticon_Kidscamp-icons-map, "instagram");
 }
 .flaticon-calendar-1:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "calendar-1");
+    content: map-get($flaticon_Kidscamp-icons-map, "calendar-1");
 }
 .flaticon-paper-plane:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "paper-plane");
+    content: map-get($flaticon_Kidscamp-icons-map, "paper-plane");
 }
 .flaticon-like:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "like");
+    content: map-get($flaticon_Kidscamp-icons-map, "like");
 }
 .flaticon-team:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "team");
+    content: map-get($flaticon_Kidscamp-icons-map, "team");
 }
 .flaticon-clock:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "clock");
+    content: map-get($flaticon_Kidscamp-icons-map, "clock");
 }
 .flaticon-calendar-2:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "calendar-2");
+    content: map-get($flaticon_Kidscamp-icons-map, "calendar-2");
 }
 .flaticon-pin:before {
-    content: map-get($flaticon_Kidztrac-icons-map, "pin");
+    content: map-get($flaticon_Kidscamp-icons-map, "pin");
 }
