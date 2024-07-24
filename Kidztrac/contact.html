@@ -49,7 +49,7 @@
 						<div class="nav-outer d-flex align-items-center flex-wrap">
 							<!-- Logo Box -->
 							<div class="logo-box">
-								<div class="logo"><a href="index.html"><img src="assets/images/logo-2.png" alt="" title="Kidscamp"></a></div>
+								<div class="logo"><a href="index.html"><img src="assets/images/logo-2.png" alt="" title="Kidztrac"></a></div>
 							</div>
 							<!-- Main Menu -->
 							<nav class="main-menu navbar-expand-md">
@@ -62,12 +62,16 @@
 									</button>
 								</div>
 								
-								<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+								<div class="navbar-collapse collapse clearfix align-items-center" id="navbarSupportedContent">
 									<ul class="navigation clearfix">
-										<li ><a href="index.html">Home</a></li>
-										<!-- <li class="dropdown"><a href="#">Demos</a>
+                                        <li><a href="index.html">home</a></li>
+                                        <li><a href="fetaures.html">Features</a></li>
+                                        <li><a href="pricing.html">Pricing</a></li>
+                                        <li><a href="about.html">About us</a></li>
+                                        <li><a href="contact.html">Contact</a></li>
+										<!-- <li ><a href="#">Demos</a>
 											<ul>
-												<li><a href="index.html">Home</a></li>
+												<li><a href="index.html">Home page 01</a></li>
 												<li><a href="index-2.html">Home page 02</a></li>
 												<li><a href="index-3.html">Home page 03</a></li>
 												<li class="dropdown"><a href="#">Header Styles</a>
@@ -79,9 +83,8 @@
 												</li>
 											</ul>
 										</li> -->
-										<li><a href="about.html">About us</a></li>
-										<li><a href="program-detail.html">Features</a></li>
-										<!--<li class="dropdown"><a href="#">Resources</a>
+										
+										<!-- <li class="dropdown"><a href="#">Pages</a>
 											<ul>
 												<li><a href="faq.html">Faq</a></li>
 												<li><a href="login.html">Login</a></li>
@@ -102,8 +105,8 @@
 												<li><a href="program.html">Program</a></li>
 												<li><a href="program-detail.html">Program detail</a></li>
 											</ul>
-										</li> -->
-										<!-- <li class="dropdown"><a href="#">Blog</a>
+										</li>
+										<li class="dropdown"><a href="#">Blog</a>
 											<ul>
 												<li><a href="blog.html">Blog</a></li>
 												<li><a href="blog-sidebar.html">Blog Sidebar</a></li>
@@ -113,7 +116,6 @@
 											</ul>
 										</li> -->
 										
-											<li><a href="contact.html">Contact</a></li>
 									</ul>
 								</div>
 							</nav>
@@ -184,13 +186,13 @@
 					<img src="assets/images/resource/about-1.jpg" alt="" />
 				</div>
 				<div class="content-box">
-					<h3>About <span>Kidztrac</span></h3>
-					<div class="text">Aliquam ut porttitor leo a diam sollicitudin.Nam tempus volutpat ipsum, non viverra odio mollis mollis. Mauris vitaemalesuada nunc vel risus.</div>
+					<h3>About <span>kidztrac</span></h3>
+					<div class="text">At KidzTrac, we believe that managing a childcare facility should be efficient, transparent, and stress-free. Our cutting-edge web application is designed to simplify your operations, enhance communication, and ensure a safe, nurturing environment for every child. Discover how KidzTrac can revolutionize your childcare management experience.</div>
 					<ul class="about-sidebar_list">
-						<li>Engaging Curriculum</li>
-						<li>Expert Instructors</li>
-						<li>Safe Environment</li>
-						<li>Fun and Adventure</li>
+						<li>Incident Report via Email</li>
+						<li>Health and Behaviour Logs</li>
+						<li>Real-Time Parent Communication</li>
+						<li>Email Blast Feature</li>
 					</ul>
 				</div>
 			</div>
@@ -204,6 +206,7 @@
 		</div>
 	</div>
 	<!-- End About Sidebar -->
+	
 	<!-- Page Title -->
     <section class="page-title">
 		<div class="color-one"></div>
@@ -213,7 +216,7 @@
         <div class="auto-container">
 			<h2>Contact Us</h2>
 			<ul class="bread-crumb clearfix">
-				<li><a href="index.html"><i class="flaticon-home"></i> Kidscamp</a></li>
+				<li><a href="index.html"><i class="flaticon-home"></i> Kidztrac</a></li>
 				<li>Contact Us</li>
 			</ul>
         </div>
@@ -271,8 +274,8 @@
 							<i class="flaticon-mail"></i>
 						</div>
 						<h4>Email Address</h4>
-						<a href="mailto:Support@Kidscamp.com">Support@Kidscamp.com</a> <br>
-						<a href="mailto:info@Kidscamp.com">info@Kidscamp.com</a>
+						<a href="mailto:Support@Kidztrac.com">Support@Kidztrac.com</a> <br>
+						<a href="mailto:info@Kidztrac.com">info@Kidztrac.com</a>
 					</div>
 				</div>
 
@@ -291,61 +294,20 @@
 						<h3>Contact Us Right Now</h3>
 						<div class="text">Your email address will not be published. Required fields are marked *</div>
 						<div class="default-form contact-form">
-							<form method="post" action="https://formspree.io/f/xzzppzql" id="contact-form" >
+							<form method="post" action="sendemail.php" id="contact-form">
 								<div class="row clearfix">
-									<!-- Honeypot Field -->
-									<input type="text" name="_gotcha" style="display:none" />
-							
 									<!--Form Group-->
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="text" name="name" value="" placeholder="Name" required="">
-									</div>
-									<!--Form Group-->
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="email" name="email" value="" placeholder="Email" required="">
-									</div>
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="text" name="phone" value="" placeholder="Phone" required="">
-									</div>
-									<!--Form Group-->
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="text" name="school_name" value="" placeholder="School Name" required="">
-									</div>
-									<!--Form Group-->
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="text" name="school_address" value="" placeholder="School Address" required="">
-									</div>
-									<!--Form Group-->
-									<div class="form-group col-lg-6 col-md-6 col-sm-6">
-										<input type="text" name="job_title" value="" placeholder="Job Title" required="">
-									</div>
-									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-										<textarea class="" name="message" placeholder="Type comment here*"></textarea>
-									</div>
-									<div class="form-group col-lg-12 col-md-12 col-sm-12">
-										<button type="submit" class="template-btn btn-style-one">
-											<span class="btn-wrap">
-												<span class="text-one">Submit now <i class="flaticon-next-1"></i></span>
-												<span class="text-two">Submit now <i class="flaticon-next-1"></i></span>
-											</span>
-										</button>
-									</div>
-								</div>
-							</form>
-							<!-- <form method="post" action="sendemail.php" id="contact-form">
-								<div class="row clearfix">
-									
 									<div class="form-group col-lg-6 col-md-6 col-sm-6">
 										<input type="text" name="name" value="" placeholder="Name" required>
 									</div>
-								
+									<!--Form Group-->
 									<div class="form-group col-lg-6 col-md-6 col-sm-6">
 										<input type="email" name="email" value="" placeholder="Email" required>
 									</div>
 									<div class="form-group col-lg-6 col-md-6 col-sm-6">
 										<input type="text" name="phone" value="" placeholder="Phone" required>
 									</div>
-								
+									<!--Form Group-->
 									<div class="form-group col-lg-6 col-md-6 col-sm-6">
 										<select name="country" class="custom-select-box">
 											<option>Select service</option>
@@ -367,7 +329,7 @@
 									</div>
 									
 								</div>
-							</form> -->
+							</form>
 						</div>
 					</div>
 				</div>
@@ -528,7 +490,7 @@
 					</div>
 					<!-- Column -->
 					<div class="column col-lg-6 col-md-12 col-sm-12">
-						<div class="designs_by">Design with <i class="fa-solid fa-heart fa-fw"></i> by Triumphal Tech Solutions</div>
+						<div class="designs_by">Design with <i class="fa-solid fa-heart fa-fw"></i> by Themeim</div>
 					</div>
 				</div>
 			</div>
