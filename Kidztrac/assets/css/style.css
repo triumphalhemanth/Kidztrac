@@ -4623,6 +4623,7 @@
 .service-block_three-inner{
 	position:relative;
 	padding:30px 30px;
+	height: 350px;
 	border-radius:8px;
 	overflow:hidden;
 	transition:all 500ms ease;
