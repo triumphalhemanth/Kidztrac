@@ -527,10 +527,14 @@
     background-color: var(--color-three);
 }
 
+
+
 .service-block_one.style-two .service-block_one-inner{
 	padding:30px 25px;
+	
 	border:1px solid rgba(var(--main-color-rgb), 0.10);
 }
+
 
 .service-block_one.style-two .service-block_one-inner:hover{
 	border-color:var(--main-color);
@@ -571,7 +575,7 @@
 	position:relative;
 	padding:30px 30px;
 	border-radius:5px;
-	height:300px;
+	height:350px;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
@@ -1521,6 +1525,16 @@
 	background-repeat:no-repeat;
 }
 
+.banneronehome .outer-container{
+	position:relative;
+	max-width:1760px;
+	margin:0 auto;
+
+	padding:85px 0px;
+	background:url(../images/background/homebanner.png) no-repeat;
+
+	/* background-color:var(--color-four); */
+}
 .testimonial-one .outer-container{
 	position:relative;
 	max-width:1760px;
